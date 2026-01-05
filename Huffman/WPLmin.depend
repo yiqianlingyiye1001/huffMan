@@ -1,0 +1,132 @@
+# depslib dependency file v1.0
+1765875807 source:d:\c\pro\shujujiegoutask\task4\wplmin\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	"hd.h"
+
+1766020127 source:d:\c\pro\shujujiegoutask\task4\wplmin\function.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"hd.h"
+
+1766021192 d:\c\pro\shujujiegoutask\task4\wplmin\hd.h
+
+1766045058 source:d:\c\pro\wplmin\function.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"hd.h"
+
+1766045050 d:\c\pro\wplmin\hd.h
+
+1766047378 source:d:\c\pro\wplmin\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	"hd.h"
+
+1767578871 source:d:\c\pro\huffman\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"hd.h"
+	"huffMan.h"
+	"backend.h"
+	<windows.h>
+
+1767578449 d:\c\pro\huffman\hd.h
+
+1767574964 source:d:\c\pro\huffman\function.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"hd.h"
+
+1767580929 source:d:\c\pro\huffman\backend.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"hd.h"
+	"huffMan.h"
+	"backend.h"
+	<winsock2.h>
+	<windows.h>
+
+1767580975 d:\c\pro\huffman\huffman.h
+	<windows.h>
+
+1767580945 d:\c\pro\huffman\backend.h
+	"hd.h"
+	"huffMan.h"
+	<winsock2.h>
+	<windows.h>
+
+1767580096 source:d:\c\pro\huffman\huffman.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"hd.h"
+	"huffMan.h"
+	"backend.h"
+	<windows.h>
+
+1767596418 source:d:\c\pro\huffman-e\backend.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"hd.h"
+	"huffMan.h"
+	"backend.h"
+	<winsock2.h>
+	<windows.h>
+
+1767578449 d:\c\pro\huffman-e\hd.h
+
+1767597847 d:\c\pro\huffman-e\huffman.h
+	<windows.h>
+
+1767596432 d:\c\pro\huffman-e\backend.h
+	"hd.h"
+	"huffMan.h"
+	<winsock2.h>
+
+1767596870 source:d:\c\pro\huffman-e\function.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	"hd.h"
+
+1767597970 source:d:\c\pro\huffman-e\huffman.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"hd.h"
+	"huffMan.h"
+	"backend.h"
+	<windows.h>
+
+1767597865 source:d:\c\pro\huffman-e\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"hd.h"
+	"huffMan.h"
+	"backend.h"
+
